@@ -1,0 +1,12 @@
+app/Http/Controllers/HomeController.php  # Controller untuk halaman utama
+public/
+css/style.css               # File CSS untuk gaya tampilan
+js/script.js               # File JavaScript untuk interaksi
+
+resources/views/layouts/
+app.blade.php       # Template utama
+header.blade.php    # Header terpisah
+footer.blade.php    # Footer terpisah
+home.blade.php      # Halaman utama
+
+routes/web.php      # Rute aplikasi (HomeController)
